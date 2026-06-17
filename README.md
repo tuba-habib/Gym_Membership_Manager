@@ -141,7 +141,7 @@ CREATE TABLE Attendance (
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/maryam2004-code/Gym_Membership_Manager.git
+   git clone https://github.com/tuba-habib/Gym_Membership_Manager
    cd Gym_Membership_Manager
    ```
 
